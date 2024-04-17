@@ -152,6 +152,8 @@ html, body{
         font-weight: normal;
     }
     #color{
+        position: absolute;
+        bottom: 10vw;
         height: 4%;
         width: 25%;
         padding: .5% 5% .5% 6%;
@@ -185,8 +187,8 @@ html, body{
     #left-bottom{
         margin-top: 5vh;
         position: absolute;
-        bottom: 6vh;
-        left:  5vw;
+        bottom: 2vw;
+        left: 5.5vw;
     }
     #left-bottom h4{
         font-size:  2.2vh;
